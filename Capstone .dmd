@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Capstone " id="229F04B9-6F88-56BE-DCCE-12AA490C1476" version="3.5">
+<createdBy>user</createdBy>
+<createdTime>2022-09-18 03:23:19 UTC</createdTime>
+<ownerDesignName>Capstone </ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>229F04B9-6F88-56BE-DCCE-12AA490C1476</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="30798096-8598-487E-F1A5-D6FDE1FD568A">
+<designStoragePath>F:\Home Assignment\YO</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
